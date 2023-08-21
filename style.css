@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+h1,h3{
+    background-color: darkgreen;
+    width: px;
+    border-radius:  50px;
+    border-style: solid;
+}
+canvas{
+    margin-top: 50px;
+    border-radius: 50px;
+    border-style: ridge;
+}
